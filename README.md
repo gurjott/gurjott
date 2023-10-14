@@ -1,7 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
 <h3 align="center">A passionate frontend developer💻</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **AI ChatBot**
 
@@ -10,6 +9,8 @@
 - 📫 How to reach me **gurjotsingh03@outlook.com**
 
 - ⚡ Fun fact **I Play Guitar!**
+
+[![An image of @gurjott's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurjott#)](https://holopin.io/@gurjott#)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -20,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjott&show_icons=true&locale=en" alt="gurjott" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjott&" alt="gurjott" /></p>
-[![An image of @gurjott's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurjott)](https://holopin.io/@gurjott)
+
